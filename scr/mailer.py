@@ -69,7 +69,7 @@ if __name__ == "__main__":
         'email1@gmail.com',
         'email2@gmail.com',
         'email3@hotmail.com' 
-        # Pode realizar a adição de quantos destinatários necessários       
+        # Pode realizar a adição de quantos destinatários necessários    .   
     ]
 
     # tranforma a lista em texto

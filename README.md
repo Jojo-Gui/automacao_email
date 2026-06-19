@@ -135,3 +135,4 @@ python main.py
 ## Autores
  
 [<img loading="lazy" src="https://avatars.githubusercontent.com/u/102173992?s=400&u=8aa86a0133ba5f556dc56371a8b3514ce08dfdf5&v=4" width=115><br><sub>João Guidetti</sub>](https://github.com/Jojo-Gui)
+
