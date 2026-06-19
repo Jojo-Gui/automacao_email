@@ -11,9 +11,10 @@ if __name__ == "__main__":
 
     #Lista com dos destinatários
     lista_de_emails = [
-        'sdayane577@gmail.com',
-        'leo.mlr06@gmail.com',
-        'jpguidetti2@hotmail.com'        
+        'email1@gmail.com',
+        'email2@gmail.com',
+        'email3@hotmail.com' 
+        # Pode realizar a adição de quantos destinatários necessários       
     ]
 
     # tranforma a lista em texto

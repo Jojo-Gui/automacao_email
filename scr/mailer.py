@@ -49,7 +49,7 @@ def enviar_email(corpo_email, destinatario):
 if __name__ == "__main__":
     print("Iniciando o teste do módulo mailer.py...")
 
-    # {Chave} originais com {valor} ficticios
+    # {Chave} originais com {valor} ficticios para teste do HTML e envio de email
     mock = {
         "Produtos Analisados": 1234,
         "Média do Preço Original (R$)": 1000,
@@ -66,9 +66,10 @@ if __name__ == "__main__":
     html = gerar_html(mock)
     
     lista_de_emails = [
-        'sdayane577@gmail.com',
-        'leo.mlr06@gmail.com',
-        'jpguidetti2@hotmail.com'        
+        'email1@gmail.com',
+        'email2@gmail.com',
+        'email3@hotmail.com' 
+        # Pode realizar a adição de quantos destinatários necessários       
     ]
 
     # tranforma a lista em texto
